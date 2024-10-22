@@ -1,0 +1,21 @@
+
+
+.body{
+    padding: 0px;
+    margin: 0px;
+}
+.output{
+    text-align: center;
+    margin: 15%;
+    
+}
+.commandInput{
+    border: 2px solid #FAJHSB; 
+    border-radius: 5px; 
+    font-size: 16px; 
+    transition: border-color 0.3s;
+    display: block;
+    text-align: center;
+    margin: 30px auto 30px auto;
+    
+}
